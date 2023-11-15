@@ -1,7 +1,6 @@
 # 크롤링
 
 ### `pip install requests`
-### or
 ### `pip3 install requests`
 
 ### `python main.py`
