@@ -1,8 +1,6 @@
 # 크롤링
 
-### `pip install requests`
-### `pip3 install requests`
-
+### `pip install -r requirements.txt`
 ### `python main.py`
 
 ### `url = input("주소 입력 (input url) : ")`
